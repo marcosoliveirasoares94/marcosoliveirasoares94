@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-## Marcos Oliveira Soares
  <div>
   <a href="https://github.com/marcosoliveirasoares94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosoliveirasoares94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,10 +24,8 @@ Here are some ideas to get you started:
 </div>
 
   <div> 
-    <a href="https://www.instagram.com/marcosoliveirasoares94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-   <a href = "mailto:marcosoliveirasoares94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcosoliveirasoares94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/marcosoliveirasoares94/marcosoliveirasoares94/blob/output/github-contribution-grid-snake.svg)
- 
+    <a href="https://www.instagram.com/marcosoliveirasoares94/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+   <a href = "mailto:marcosoliveirasoares94@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcosoliveirasoares94" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
